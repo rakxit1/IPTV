@@ -1,7 +1,5 @@
 # IPTV React Native Project
 
-![IPTV demo](/media/IPTV_demo.mp4)
-
 This was one of my practice project which i made during my learning of react native
 
 This React Native project is dedicated to building an engaging application that utilizes IPTV APIs to provide users with a seamless experience of exploring various TV channels and streaming content. Below, we'll walk through the key components and functionalities that constitute this project.
